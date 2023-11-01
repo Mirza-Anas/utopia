@@ -1,0 +1,60 @@
+2023-10-24T13:42:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-templates.php on line 14
+
+2023-10-24T13:46:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1201
+
+2023-10-24T13:53:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\functions.php on line 5311
+
+2023-10-24T14:52:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-10-24T14:52:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wp-post.php on line 266
+
+2023-10-24T14:52:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+
+2023-10-24T14:52:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\variation-swatches-woo\plugin-loader.php on line 51
+
+2023-10-24T14:52:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-connection\legacy\class-jetpack-ixr-client.php on line 22
+
+2023-10-24T14:52:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-connection\legacy\class-jetpack-ixr-client.php on line 22
+
+2023-10-24T14:52:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wp-hook.php on line 297
+
+2023-10-24T14:52:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\managers\controls.php on line 797
+
+2023-10-24T14:53:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wp-hook.php on line 89
+
+2023-10-24T14:55:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-24T14:56:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\woocommerce\includes\class-wc-autoloader.php on line 53
+
+2023-10-24T14:56:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\cartflows\modules\gutenberg\dist\blocks\order-detail-form\class-wcfb-order-detail-form.php on line 63
+
+2023-10-24T14:56:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\load.php on line 1681
+
+2023-10-24T14:56:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php on line 12
+
+2023-10-24T14:56:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-24T14:56:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1160
+
+2023-10-24T14:56:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\blocks.php on line 361
+
+2023-10-24T14:56:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1160
+
+2023-10-24T14:57:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\taxonomy.php on line 1708
+
+2023-10-24T14:57:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 3447
+
+2023-10-24T14:58:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php on line 43
+
+2023-10-24T15:03:29+00:00 CRITICAL LiteSpeed\Control::finalize(): Cannot use output buffering in output buffering display handlers in C:\xampp\htdocs\website\wp-admin\includes\media.php on line 3612
+
+2023-10-24T15:03:30+00:00 CRITICAL Out of memory (allocated 121634816 bytes) (tried to allocate 5242880 bytes) in C:\xampp\htdocs\website\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-settings.php on line 540
+
+2023-10-24T15:03:31+00:00 CRITICAL Out of memory (allocated 127926272 bytes) (tried to allocate 5242880 bytes) in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 281
+
+2023-10-24T15:03:31+00:00 CRITICAL Out of memory (allocated 127926272 bytes) (tried to allocate 5242880 bytes) in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 281
+
+2023-10-24T15:08:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\plugin.php on line 179
+
+2023-10-24T15:17:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+

@@ -1,0 +1,4 @@
+2023-10-16T09:02:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\fonts.php on line 6
+
+2023-10-16T15:43:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\Requests\src\Transport\Curl.php on line 205
+

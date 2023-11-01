@@ -1,0 +1,10 @@
+2023-10-04T08:07:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-04T10:52:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\core\kits\documents\tabs\global-colors.php on line 8
+
+2023-10-04T12:09:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-connection\src\class-error-handler.php on line 193
+
+2023-10-04T12:09:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-search\src\class-helper.php on line 907
+
+2023-10-04T12:09:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\cartflows\modules\gutenberg\classes\class-cartflows-block-loader.php on line 8
+

@@ -1,0 +1,8 @@
+2023-10-19T19:28:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\themes\astra\inc\schema\class-astra-wpfooter-schema.php on line 12
+
+2023-10-19T19:29:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\modules\generator-tag\module.php on line 8
+
+2023-10-19T19:31:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\pro-elements\modules\dynamic-tags\tags\archive-meta.php on line 7
+
+2023-10-19T19:45:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\dynamic-visibility-for-elementor\vendor\composer\ClassLoader.php on line 430
+

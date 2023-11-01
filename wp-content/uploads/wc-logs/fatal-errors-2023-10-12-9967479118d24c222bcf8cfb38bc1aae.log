@@ -1,0 +1,72 @@
+2023-10-12T09:22:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T09:22:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-10-12T09:22:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-10-12T09:22:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\conditions.php on line 4
+
+2023-10-12T09:22:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\elements\container.php on line 19
+
+2023-10-12T09:22:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\modules\history\views\revisions-panel-template.php on line 2
+
+2023-10-12T10:48:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:50:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-products-v2-controller.php on line 2289
+
+2023-10-12T10:50:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:50:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\pro-elements\modules\woocommerce\widgets\product-add-to-cart.php on line 10
+
+2023-10-12T10:50:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\pro-elements\modules\carousel\widgets\base.php on line 11
+
+2023-10-12T10:50:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\functions.php on line 4570
+
+2023-10-12T10:50:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\pro-elements\modules\theme-builder\documents\single-base.php on line 8
+
+2023-10-12T10:51:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\plugin.php on line 547
+
+2023-10-12T10:53:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:54:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:54:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\CouponPageMoved.php on line 10
+
+2023-10-12T10:54:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\functions.php on line 4570
+
+2023-10-12T10:54:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:54:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\pro-elements\modules\custom-code\module.php on line 18
+
+2023-10-12T10:54:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:54:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:55:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:55:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\woocommerce\lib\packages\League\Container\Definition\Definition.php on line 211
+
+2023-10-12T10:55:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wp-hook.php on line 309
+
+2023-10-12T10:55:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\base\controls-stack.php on line 197
+
+2023-10-12T10:56:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:56:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\woocommerce\includes\admin\wc-admin-functions.php on line 11
+
+2023-10-12T10:56:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\pro-elements\modules\forms\actions\activecampaign.php on line 11
+
+2023-10-12T10:56:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\widgets.php on line 1016
+
+2023-10-12T10:56:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\functions.php on line 6691
+
+2023-10-12T10:56:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\ultimate-member\includes\core\class-permalinks.php on line 41
+
+2023-10-12T10:57:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T10:57:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-includes\class-wpdb.php on line 2459
+
+2023-10-12T11:02:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\jetpack\_inc\lib\core-api\wpcom-endpoints\class-wpcom-rest-api-v2-endpoint-resolve-redirect.php on line 136
+
+2023-10-12T11:04:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\website\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2163
+
