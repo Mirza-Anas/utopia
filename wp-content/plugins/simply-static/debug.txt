@@ -1,0 +1,2 @@
+[2023-11-02 11:16:13] [class-ss-url-fetcher.php:228] Fetching URL: http://localhost/utopia
+[2023-11-02 11:17:13] [class-ss-url-fetcher.php:228] Fetching URL: http://localhost/utopia

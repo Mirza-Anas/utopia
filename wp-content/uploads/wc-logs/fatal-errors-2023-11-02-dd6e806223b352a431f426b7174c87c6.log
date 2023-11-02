@@ -1,0 +1,40 @@
+2023-11-02T08:54:48+00:00 CRITICAL Maximum execution time of 600 seconds exceeded in C:\xampp\htdocs\utopia\wp-includes\Requests\src\Transport\Curl.php on line 521
+
+2023-11-02T08:59:18+00:00 CRITICAL Maximum execution time of 600 seconds exceeded in C:\xampp\htdocs\utopia\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-11-02T09:31:26+00:00 CRITICAL Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\class-ss-util.php:548
+Stack trace:
+#0 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\class-ss-util.php(548): array_key_exists('cancel', NULL)
+#1 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\tasks\class-ss-task.php(46): Simply_Static\Util::add_archive_status_message(NULL, 'cancel', 'Cancelling job')
+#2 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\tasks\class-ss-cancel-task.php(22): Simply_Static\Task->save_status_message('Cancelling job')
+#3 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php(146): Simply_Static\Cancel_Task->perform()
+#4 C:\xampp\htdocs\utopia\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('cancel')
+#5 C:\xampp\htdocs\utopia\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(175): WP_Background_Process->handle()
+#6 C:\xampp\htdocs\utopia\wp-includes\class-wp-hook.php(310): WP_Background_Process->maybe_handle('')
+#7 C:\xampp\htdocs\utopia\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\utopia\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\utopia\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp_arch...')
+#10 {main}
+  thrown in C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\class-ss-util.php on line 548
+
+2023-11-02T10:08:19+00:00 CRITICAL Uncaught TypeError: voku\helper\HtmlDomParser::loadHtml(): Argument #1 ($html) must be of type string, bool given, called in C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php on line 228 and defined in C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php:870
+Stack trace:
+#0 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php(228): voku\helper\HtmlDomParser->loadHtml(false, NULL)
+#1 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\class-ss-url-extractor.php(337): voku\helper\HtmlDomParser::__callStatic('str_get_html', Array)
+#2 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\class-ss-url-extractor.php(179): Simply_Static\Url_Extractor->extract_and_replace_urls_in_html()
+#3 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\tasks\class-ss-fetch-urls-task.php(140): Simply_Static\Url_Extractor->extract_and_update_urls()
+#4 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\tasks\class-ss-fetch-urls-task.php(108): Simply_Static\Fetch_Urls_Task->handle_200_response(Object(Simply_Static\Page), true, true)
+#5 C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php(142): Simply_Static\Fetch_Urls_Task->perform()
+#6 C:\xampp\htdocs\utopia\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#7 C:\xampp\htdocs\utopia\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#8 C:\xampp\htdocs\utopia\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#9 C:\xampp\htdocs\utopia\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\utopia\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\utopia\wp-cron.php(191): do_action_ref_array('wp_archive_crea...', Array)
+#12 {main}
+  thrown in C:\xampp\htdocs\utopia\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php on line 870
+
+2023-11-02T10:10:05+00:00 CRITICAL Maximum execution time of 600 seconds exceeded in C:\xampp\htdocs\utopia\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-11-02T10:13:43+00:00 CRITICAL Maximum execution time of 600 seconds exceeded in C:\xampp\htdocs\utopia\wp-includes\Requests\src\Transport\Curl.php on line 510
+
